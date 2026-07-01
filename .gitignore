@@ -24,3 +24,6 @@ build/
 # 에디터
 .vscode/
 .idea/
+
+# Claude Code 로컬 세션 상태
+.claude/
